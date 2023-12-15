@@ -1,0 +1,25 @@
+body {
+    background: lightblue;
+    margin-bottom: 3rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.title-name {
+    text-align: center;
+}
+.page-title {
+    text-align: center;
+}
+.country-flag {
+    align-items: center;
+    width: 75%;
+}
+.img-fluid {
+    width: 125%;
+}
+#league-name {
+    font-size: 40px;
+}
+#league-info {
+    font-size: 140%;
+}
